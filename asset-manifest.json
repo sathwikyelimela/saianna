@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saianna/static/css/main.e6c13ad2.css",
+    "main.js": "/saianna/static/js/main.07949bdc.js",
+    "static/js/592.2ecaa652.chunk.js": "/saianna/static/js/592.2ecaa652.chunk.js",
+    "index.html": "/saianna/index.html",
+    "main.e6c13ad2.css.map": "/saianna/static/css/main.e6c13ad2.css.map",
+    "main.07949bdc.js.map": "/saianna/static/js/main.07949bdc.js.map",
+    "592.2ecaa652.chunk.js.map": "/saianna/static/js/592.2ecaa652.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.07949bdc.js"
+  ]
+}
